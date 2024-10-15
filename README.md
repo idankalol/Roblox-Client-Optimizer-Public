@@ -1900,17 +1900,3 @@ High
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
 ### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
 ### [rbxservers.xyz](https://rbxservers.xyz/) *[Website]*
-
-
-
-
-
-
-
-
-
-
-  [![Discord](https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/HNe7fzR9xg)
-
-</div>
-<h4 align="center">© 2024 Espresso Softworks All Rights Reserved.</h4>
