@@ -5,10 +5,10 @@
   <img src="assets/timeless.gif" width="256" alt="Playboi Carti">
 </h3>
 
-<h1 align="center">#RBXFLAG$</h1>
+<h1 align="center">#FUCKFLAG$</h1>
 
 <h4 align="center">Join our Discord Server to contribute & expand our list (We need you)</h4>
-<h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
+<h5 align="center">https://discord.gg/qCmdy4GMAx</h5>
 
 <h3 align="center">
   <img src="https://media.discordapp.net/attachments/1272692993211498548/1290182172526903388/im_a_loser.jpg?ex=66fb8748&is=66fa35c8&hm=14a1da71b1da4fc319d0e778bcef515ede730ceddf2583d84740fa9442526447&" width="256" alt="how to be a loser in 2024">
@@ -16,14 +16,9 @@
 
 🤓🤓
 
-<h4 align="center">Join our Roblox group</h4>
-<h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
+<h4 align="center">Roblox profile</h4>
+<h5 align="center">https://www.roblox.com/users/6039680821/profile</h5>
 
-<h4 align="center">Repository Discussions</h4>
-<h5 align="center">https://github.com/espresso-soft/rbxflags/discussions</h5>
-
-<h4 align="center">PROMOTE OUR CLEAN LIST TO NORMAL USERS</h4>
-<h5 align="center">https://github.com/fastvariable/nvrmaintain</h5>
 
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
@@ -60,7 +55,6 @@
 5. **Save** and you're good to go!
 ###### Do note that after roblox updates you have to do this process again
 
-[Watch a Video Tutorial](https://streamable.com/rk5an6)
 
 ## Android Rootless Roblox (MT Manager) How to Use:
 > [!CAUTION]
@@ -84,20 +78,6 @@
 
 ###### This is no method is no longer available on Bloxstrap because pizzaboxer a stupid Int Bool stupid ass check
 
-# List Navigation
-* **[Rendering](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#rendering)**
-* **[Lightning Technologies](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#lightning-technologies)**
-* **[Graphical](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
-* **[Quality of Life](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
-* **[UI](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
-* **[UI X](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
-* **[Audio](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
-* **[Physics](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
-* **[Abusive Visuals](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
-* **[Abusive Game Presets](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#abusive-game-specific-presets)**
-* **[lol](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#lol)**
-* **[Debug](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#debug)**
-* **[Links](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#links)**
 
 <img src="assets/bitdancer.png" width="888"/>
 
@@ -201,7 +181,7 @@ Wish it was different than what it was
 }
 ```
 ### Render Occlusion Culling
-###### [@CloneTrooper1019](https://x.com/MaximumADHD/status/1832331711486865769)
+###### 
 ```json
 {
     "DFFlagUseVisBugChecks": "True",
@@ -309,7 +289,7 @@ High
 ```
 ### Low Render Distance
 > [!TIP]
-> **[View FRM Levels](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#frm-levels)**
+> **[View FRM Levels]**
 ```json
 {
     "DFIntDebugRestrictGCDistance": "1"
@@ -380,7 +360,7 @@ High
 ```
 ### Enable GPULightCulling
 > [!TIP]
-> **Combine with [Lighting Attenuation](https://FastFlags/FastFlags-Collective/?tab=readme-ov-file#lighting-attenuation) for better vision**
+> for better vision
 ```json
 {
     "FFlagFastGPULightCulling3": "True"
@@ -795,8 +775,8 @@ High
 }
 ```
 ### Break Reduced Motion V4
-###### @kezcn
-![image](https://github.com/user-attachments/assets/cfdc9732-084e-4c09-bc43-8039a3bf0d89)
+###### @idanka4
+![image]([https://github.com/user-attachments/assets/cfdc9732-084e-4c09-bc43-8039a3bf0d89](https://raw.githubusercontent.com/idankalol/Roblox-Client-Optimizer-Public/refs/heads/main/assets/348220078-cfdc9732-084e-4c09-bc43-8039a3bf0d89.png))
 ```json
 {
     "FFlagFixReducedMotionStuckIGM2": "False"
@@ -1201,7 +1181,7 @@ High
 <h1 align="center">Physics (Abusive)</h1>
 
 > [!NOTE]
-> Support me for finding some of these FastFlags (With credits on @burgerboxer) by buying https://www.roblox.com/game-pass/895489152/ or boosting our server!
+> Support me for finding some of these FastFlags (With credits on @idankalol) by buying [https://www.roblox.com/game-pass/895489152/](https://www.roblox.com/game-pass/909049159) or boosting our server!
 
 ### Tool Desync
 ```json
@@ -1369,7 +1349,7 @@ High
 }
 ```
 ### Noclip 3 ✨
-###### @burgerboxer & @dis_spencer
+###### @idanka4
 ```json
 {
     "FFlagDebugSimDefaultPrimalSolver": "True",
@@ -1446,27 +1426,7 @@ High
     "DFIntMaxClientSimulationRadius": "2147000000"
 }
 ```
-### Low Gravity 1 ✨
-> [!NOTE]
-> `'FFlagDebugSimDefaultPrimalSolver' : True`  
-> This flag enables the new simulation engine or whatever it is.
 
-> [!CAUTION]
-> `'DFIntDebugSimPrimalLineSearch' : 1`  
-> This setting is a poor man's gravity/flight. The default value is 100:
-> - **Above 0:** Low gravity.
-> - **Below 1 to -1:** Will make gameplay weird, especially with physics.
-> - **Below -1:** Acts as a poor man's fly mode (not really usable).
-###### [@Amity](https://www.youtube.com/watch?v=5M411LL17B0)
-```json
-{
-    "FFlagDebugSimDefaultPrimalSolver": "True",
-    "DFIntDebugSimPrimalLineSearch": "3"
-}
-```
-### Low Gravity 2
-> [!CAUTION]
-> **This is more buggy**
 ```json
 {
     "FFlagDebugSimDefaultPrimalSolver": "True",
@@ -1478,33 +1438,7 @@ High
     "DFIntDebugSimPrimalToleranceInv": "1"
 }
 ```
-### Low Gravity 2 Control on Parts Improvement
-```json
-{
-    "FFlagDebugSimDefaultPrimalSolver": "True",
-    "DFIntDebugSimPrimalNewtonIts": "1",
-    "DFIntDebugSimPrimalPreconditioner": "15",
-    "DFIntDebugSimPrimalPreconditionerMinExp": "10",
-    "DFIntDebugSimPrimalToleranceInv": "1",
-    "DFIntDebugSimPrimalWarmstartForce": "-150",
-    "DFIntDebugSimPrimalWarmstartVelocity": "100"
-}
-```
-### Low Gravity 3
-```json
-{
-    "FFlagDebugSimDefaultPrimalSolver": "True",
-    "FFlagDebugSimPrimalGSLump": "True",
-    "FIntDebugSimPrimalGSLumpAlpha": "-1111"
-}
-```
-### Slow Walk + Low Gravity 
-```json
-{
-    "FFlagDebugSimDefaultPrimalSolver": "True",
-    "DFIntDebugSimPrimalLineSearch": "1",
-    "DFIntDebugSimPrimalWarmstartVelocity": "50"
-}
+
 ```
 ### Upside Down while slowly being sent to heaven
 ```json
@@ -1933,7 +1867,7 @@ High
 }
 ```
 ### absolutely kill your game quality with fflags known to me
-##### @dynamitebumblemouth
+##### @idanka4
 ```json
 {
     "FFlagDisablePostFx": "True",
@@ -1967,76 +1901,15 @@ High
 ### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
 ### [rbxservers.xyz](https://rbxservers.xyz/) *[Website]*
 
-<h4 align="center">⁺ You've reached the bottom of the list! ⁺</h4>
-
-<h3 align="center">
-  <a href="https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL">
-    <img src="https://i.scdn.co/image/ab67616d0000b27310daba582005ee9d0f29b6ce" width="256" alt="Listen on Spotify">
-  </a>
-</h3>
 
 
-<h3 align="center">Timeless - The Weeknd, Playboi Carti</h3>
 
 
-<h1 align="center">
-  <a href="https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
-  </a>
-</h1>
 
-<h3 align="center">Tools</h3>
-<p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
-<p align="center"><a href="https://github.com/MaximumADHD/Roblox-FFlag-Tracker">Roblox FFlag Tracker</a></p>
-<h3 align="center">Sources</h3>
-<p align="center"><a href="https://discord.gg/YvbuWggPC6">Roblox Glitching Community</a></p>
-<p align="center"><a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a></p>
-<p align="center">The people who found these fastflags</p>
-<div align="center">
-<table>
-  <tr>
-    <th>Label</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>Flag</td>
-    <td>bool</td>
-    <td>A boolean variable that can be either true or false.</td>
-  </tr>
-  <tr>
-    <td>Int</td>
-    <td>int</td>
-    <td>An integer variable used to store whole numbers.</td>
-  </tr>
-  <tr>
-    <td>String</td>
-    <td>string</td>
-    <td>A variable used to store a sequence of characters.</td>
-  </tr>
-</table>
 
-<table>
-  <tr>
-    <th>Prefix</th>
-    <th>Label</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>F</td>
-    <td>Fast</td>
-    <td>A regular fastvariable that is initialized once<br/>and does not change until a new session begins.</td>
-  </tr>
-  <tr>
-    <td>DF</td>
-    <td>Dynamic Fast</td>
-    <td>A fastvariable that can change at run-time, and<br/>automatically updates every 5 minutes.</td>
-  </tr>
-</table>
-<div align="center">
-  
-  [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/espresso-soft/rbxflags/blob/main/LICENSE)
-  [![Version](https://img.shields.io/github/v/release/espresso-soft/rbxflags?color=7a39fb)](https://github.com/espresso-soft/rbxflags/releases/latest)
+
+
+
   [![Discord](https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/HNe7fzR9xg)
 
 </div>
